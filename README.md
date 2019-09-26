@@ -1,4 +1,4 @@
-# gtservenis.github.io
+# georgetservenis.github.io
 Create my own personal website.
 
-visit: http://gtservenis.github.io
+visit: http://georgetservenis.github.io
